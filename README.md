@@ -1,2 +1,2 @@
 # accelerating4DMRI
-repo for the vacation student project
+Repository for the vacation student project at the ICR for accelerating 4D MRI
